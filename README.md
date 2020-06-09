@@ -1,2 +1,2 @@
-# YashJavalkar-ATTENDANCE-MANAGEMENT-SYSTEM
+# ATTENDANCE MANAGEMENT SYSTEM
 An Idea to Managing Attendance Online in schools, colleges etc. 
